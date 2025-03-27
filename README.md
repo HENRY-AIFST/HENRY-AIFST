@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Bagoria</h1>
 <h3 align="center">I am a first- year developer passionate about coding and</h3>
 
-<img align="right" alt="coding" width=300 boder-radius=10 src="https://tenor.com/view/anwarlogo-anwarjitou-gif-4082905506450210104">
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://tenor.com/view/webster-animated-text-logo-gif-17844767">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henry&label=Profile%20views&color=0e75b6&style=flat" alt="henry" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
