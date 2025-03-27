@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Bagoria</h1>
 <h3 align="center">I am a first- year developer passionate about coding and</h3>
 
-<img align="right" alt="coding" width=300 boder-radius=10 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fethical-hacking&psig=AOvVaw0Y4N1VzHdJ0_Py8FOijb0M&ust=1743143581967000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiv-IHSqYwDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://tenor.com/view/hacker-python-coding-glitch-gif-24209207">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henry&label=Profile%20views&color=0e75b6&style=flat" alt="henry" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
