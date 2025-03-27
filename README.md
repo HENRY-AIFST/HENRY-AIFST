@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 <!--
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://tenor.com/view/anwarlogo-anwarjitou-gif-4082905506450210104">
 **HENRY-AIFST/HENRY-AIFST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
