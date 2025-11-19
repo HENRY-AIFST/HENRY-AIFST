@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width=300 boder-radius=10 src="https://tenor.com/view/hacker-python-coding-glitch-gif-24209207">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henry&label=Profile%20views&color=0e75b6&style=flat" alt="henry" /> </p>
 
-<p align="left"> <a href="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRjNGVtbXcyeWRxM2drdHo5aWRtaDI4b3ZlYWN2d3dsajdoaDNwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9RbxjZ8QXesiYoerE/giphy.gif" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRjNGVtbXcyeWRxM2drdHo5aWRtaDI4b3ZlYWN2d3dsajdoaDNwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9RbxjZ8QXesiYoerE/giphy.gif" target="blank"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRlYTU5MmtqaWFpZ3ozYm8ycmY3dDRkbG5jd3VvdmZnczB3ZnpvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [face-payment App](yet not available)
 
