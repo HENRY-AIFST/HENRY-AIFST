@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Bagoria</h1>
-<h3 align="center">I am a first- year developer passionate about coding and</h3>
+<h3 align="center">I am a second- year developer passionate about coding and</h3>
 
 <img align="right" alt="coding" width=300 boder-radius=10 src="https://tenor.com/view/hacker-python-coding-glitch-gif-24209207">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henry&label=Profile%20views&color=0e75b6&style=flat" alt="henry" /> </p>
